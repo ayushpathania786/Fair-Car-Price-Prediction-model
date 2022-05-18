@@ -1,0 +1,1 @@
+This Project deals in detecting 2nd hand price of a certain model of a car based on ownership , distance covered , initial rates and many more parameters .
